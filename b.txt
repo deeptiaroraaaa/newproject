@@ -1,2 +1,4 @@
 Hi, im b.txt
 Okay
+bye
+
